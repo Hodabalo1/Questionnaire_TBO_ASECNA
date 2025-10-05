@@ -1,2 +1,2 @@
 # Questionnaire_TBO_ASECNA
-Questionnaire ASECNA sur la mise en œuvre du TBO (Trajectory Based Operations)  Enquête bilingue (français/anglais) destinée aux professionnels de l'aviation civile des États membres de l'ASECNA pour évaluer le niveau d'implémentation des procédures TBO.  
+Questionnaire ASECNA sur la mise en œuvre du TBO (Trajectory Based Operations)  Enquête destinée aux professionnels de l'aviation civile des États membres de l'ASECNA pour évaluer le niveau d'implémentation des procédures TBO.  
